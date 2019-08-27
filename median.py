@@ -6,3 +6,4 @@ def median(nums):
 
 print(median([7, 1, 3]))        # Output: 3
 print(median([8, 4, 2, 10]))    # Output: 6
+# Auto edit 1747733291
