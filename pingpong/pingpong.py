@@ -116,3 +116,4 @@ while True:
     if (-350 < ball.xcor() < -340) and (paddle_a.ycor() - 50 < ball.ycor() < paddle_a.ycor() + 50):
         ball.setx(-340)
         ball.dx *= -1
+# Auto edit 1747733291
